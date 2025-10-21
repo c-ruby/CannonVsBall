@@ -1,6 +1,14 @@
 # CannonVsBall 🎯  
 *A Java AWT-based physics simulation game.*
 
+**Course:** CMSC 3320/001  
+**Group:** 7  
+**Members:**  
+- Caleb Ruby — calebruby.cs@gmail.com 
+- Adir Turgeman — tur28711@pennwest.edu  
+- Caleb Rachocki — rac3146@pennwest.edu  
+- Ryan Miller — mil0780@pennwest.edu  
+
 ## Overview  
 **CannonVsBall** is a Java AWT physics simulation game where the player controls a cannon using mouse movement and clicks to fire projectiles at a bouncing ball. The game demonstrates basic game loop design, event handling, and manual physics simulation.
 
